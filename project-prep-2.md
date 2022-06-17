@@ -49,7 +49,7 @@ Each pitch should contain the following information:
 	1. Superuser creates blog post that is a description of a recipe 
 	2. has a model such that the fields are things like: the images, other files in the blog post, as well as the recipe and directions to follow the recipe
 2.  What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
-	1. A neat place for the super user to save all their recipes for further user. Allows for the superuser to save videos/images and descriptions that detail the process of making the dish. Other users can view and follow the recipes that the super user creates. 
+	1. A neat place for the super user to save all their recipes for further user. Allows for the superuser to save videos/images and descriptions that detail the process of making the dish. Other users can view and follow the recipes that the super user creates.  Might include an category for quick meals for devs that don't have a lot of time to cook. 
 3.  Minimum Viable Product (MVP) definition.
     -   What is the **minimum** required for you to present on your demo day?
 		- 5 recipes created by the super user

@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "00e3c48e84cf25e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e161ef13b08ebcc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "project-prep-3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a539224ccf69850",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5afabf140066ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d66b51c020cf3a8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d85a9c375e880e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "552cf37cf150e4a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d25a40a9d32a08e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28fabee5b48f3b91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "project-prep-3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e161ef13b08ebcc",
+  "lastOpenFiles": [
+    "project-prep-3.md",
+    "project-prep-2.md",
+    "project-prep-4.md",
+    "project-prep-1.md"
+  ]
+}

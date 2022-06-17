@@ -27,6 +27,7 @@ Grab a whiteboard and brainstorm ideas. During this phase, there is no comment o
 - Blog maker
 - singular blog
 - study management tool
+- expense tracker
 
 ### Pitching a Project
 
@@ -71,6 +72,7 @@ Each pitch should contain the following information:
 	- Ability to email recipe to yourself
 	- pick ingredients to find recipes that include those ingredients
 	- nutrional info for each recipe (servings, calories etc)
+	- daily emails of a top hit (for the dev that has no time to search through the web)
 	
 **_Expense Tracker_**
 

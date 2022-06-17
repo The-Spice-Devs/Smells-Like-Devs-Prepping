@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "project-prep-3.md",
+            "file": "project-prep-2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project-prep-3.md",
+                "file": "project-prep-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "6e161ef13b08ebcc",
   "lastOpenFiles": [
-    "project-prep-3.md",
     "project-prep-2.md",
     "project-prep-4.md",
+    "project-prep-3.md",
     "project-prep-1.md"
   ]
 }
